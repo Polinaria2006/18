@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(169, 139, 197);
+}
+h1{
+    color:aquamarine;
+}
+
+.mytext{
+    background: lightgoldenrodyellow;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(200, 75, 148)
+}
+
+a:hover{
+    color: rgb(88, 62, 43);
+}
+
+nav{
+    background-color: #eee;
+    border: 1px solid rgb(123, 133, 175)
+
+}
+.pic1{
+    width: 25%;
+    margin: 2%;
+    border-radius: 10px;
+}
